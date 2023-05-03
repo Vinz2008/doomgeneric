@@ -6,3 +6,6 @@
 .vs/
 Debug/
 Release/
+*.wad
+*.WAD
+doomgeneric
